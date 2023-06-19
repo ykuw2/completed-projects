@@ -1,1 +1,1 @@
-# completed-projects
+# Completed Projects
